@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredefinedParametersInUriJsonSource", "PredefinedParametersInUriJsonSource\PredefinedParametersInUriJsonSource.csproj", "{38889CFD-DCFE-4DC7-B603-27DFB775341A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredefinedParametersInUriJsonSource", "PredefinedParametersInUriJsonSource.csproj", "{38889CFD-DCFE-4DC7-B603-27DFB775341A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CFA842D1-898F-4BD3-A899-0B0AD298A68A}
+		SolutionGuid = {093E437F-FB02-4CC7-92B9-7E13E258AC75}
 	EndGlobalSection
 EndGlobal
